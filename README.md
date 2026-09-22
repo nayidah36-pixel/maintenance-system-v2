@@ -3,10 +3,13 @@
 PHP + MySQL web app for managing maintenance requests between users, technicians, and admins.
 
 ## Tech Stack
-- PHP 8.1 + Apache
-- MySQL
-- Docker
-- Deployed on Render + Aiven
+- **Frontend:** HTML5, CSS3, JavaScript (inline in PHP templates)
+- **Backend:** PHP 8.1
+- **Database:** MySQL
+- **Web Server:** Apache
+- **Containerization:** Docker
+- **Hosting:** Railway (app) + Railway MySQL (database)
+- **Version Control:** Git + GitHub
 
 ## Live Demo
 🔗 https://web-production-82d87.up.railway.app
