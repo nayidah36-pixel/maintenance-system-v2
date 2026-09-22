@@ -9,10 +9,9 @@ PHP + MySQL web app for managing maintenance requests between users, technicians
 - Deployed on Render + Aiven
 
 ## Live Demo
-https://your-render-url.onrender.com
-
+🔗 https://web-production-82d87.up.railway.app
 ## Local Setup
 1. Clone repo
 2. Import `maintenance_db.sql` into MySQL
 3. Configure `config/db.php`
-4. Access via XAMPP at http://localhost/maintenance_system/
+4. 4. Access via XAMPP at http://localhost/maintenance_system_deploy/
