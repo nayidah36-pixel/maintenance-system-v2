@@ -1,0 +1,17 @@
+.env
+*.env
+!.env.example
+
+assets/uploads/*
+admin/assets/uploads/*
+!assets/uploads/.gitkeep
+!admin/assets/uploads/.gitkeep
+
+test.php
+.nojekyll
+.vscode/
+.vscode.code-workspace
+
+.DS_Store
+Thumbs.db
+*.log
